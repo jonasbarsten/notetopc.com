@@ -1,0 +1,24 @@
+{
+  "name": "notetopc.com",
+  "authors": [
+    "Jonas Barsten <jonasbarsten@gmail.com>"
+  ],
+  "description": "Landing page for note to program change converter app",
+  "main": "index.html",
+  "keywords": [
+    "MIDI",
+    "note",
+    "Program",
+    "change"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
